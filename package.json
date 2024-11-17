@@ -6,6 +6,13 @@
   },
   "version": "0.1.0",
   "private": true,
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "personal-website"
+  ],
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
